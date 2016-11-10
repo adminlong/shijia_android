@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2AC2EF</color>
+    <color name="colorPrimaryDark">#2AC2EF</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 灰色 -->
+    <color name="gray">#CCCCCC</color>
+    <!-- 深灰色 -->
+    <color name="gray_dark">#BBBBBB</color>
+    <!-- 浅灰色 -->
+    <color name="gray_light">#D0D0D0</color>
+    <!-- 浅灰色 -->
+    <color name="gray_bg">#F2F2F2</color>
+    <!-- 褐色 -->
+    <color name="brown">#F33B19</color>
+    <!-- 红色 -->
+    <color name="red">#FF0000</color>
+    <!-- 浅蓝色 -->
+    <color name="blue_light">#CEF4FC</color>
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+    <!-- 透明 -->
+    <color name="transparent_no_dark">#FF000000</color>
+    <!-- 透明 -->
+    <color name="transparent_no_dark2">#23000000</color>
+    <color name="transparent_half">#88000000</color>
+
+    <!-- 黑色字体颜色 -->
+    <color name="font_color_dark">#000000</color>
+    <!-- 黑灰色字体颜色 -->
+    <color name="font_color_black">#444444</color>
+    <!-- 灰色字体颜色 -->
+    <color name="font_color_gray_tip">#AAAAAA</color>
+    <!-- 灰色字体颜色 -->
+    <color name="font_color_gray">#9A9A9A</color>
+    <!-- 深灰色字体颜色 -->
+    <color name="font_color_gray_dark">#CFCFCF</color>
+    <!-- 浅黑灰色字体颜色 -->
+    <color name="font_color_gray_black">#656565</color>
+    <!-- 褐色字体颜色 -->
+    <color name="font_color_brown">#F33B19</color>
+    <!-- 白色字体颜色 -->
+    <color name="font_color_white">#FFFFFF</color>
+    <!-- 蓝色字体颜色 -->
+    <color name="font_color_blue">#0677F0</color>
+    <!-- 亮白色字体颜色 -->
+    <color name="prom_name">#F4FBFF</color>
+
+    <!-- 蓝色按钮背景色 -->
+    <color name="btn_bgcolor_blue">#2AC2EF</color>
+    <!-- 灰色按钮背景色 -->
+    <color name="btn_bgcolor_gray">#CCCCCC</color>
+
+    <!-- 播放界面灰色背景 -->
+    <color name="mediaplayer_bgcolor_gray">#F3F2F0</color>
+    <!-- 播放界面灰色字体 -->
+    <color name="mediaplayer_font_color_gray">#9C9893</color>
+    <!-- 播放界面收藏按钮背景色 -->
+    <color name="mediaplayer_collect_btn_bgcolor_gray">#D3CFCD</color>
+    <!-- 剧集item项背景色 -->
+    <color name="jujilist_item_bgcolor_gray">#E9E8E5</color>
+    <!-- 聊天室灰色分割线背景色 -->
+    <color name="chatroom_line_bgcolor_gray">#E3E3E3</color>
+    <!-- 离线缓存节目缓存进度条背景色 -->
+    <color name="cache_progressbar_bg_black">#C5C3BC</color>
+    <!-- 离线缓存节目缓存蓝色进度 -->
+    <color name="cache_progressbar_blue">#6BDEF0</color>
+    <!-- 弹出框边框颜色灰色 -->
+    <color name="dialog_border_gray">#D1C9BF</color>
+    <!-- 弹出框中字体颜色蓝色 -->
+    <color name="dialog_font_color_blue">#00C8EF</color>
+    <color name="channel_background">#43A3DA</color>
+    <color name="texttag_color1">#F34424</color>
+    <color name="texttag_color2">#FEA003</color>
+    <color name="texttag_color3">#FCCD3D</color>
+
+    <!-- 分割线颜色 -->
+    <color name="divider_color">#E5E5E5</color>
+    <!-- 分割线颜色 -->
+    <color name="gray_bg_tip">#E3E3E3</color>
+
+    <color name="gray_text_tip">#9A9A9A</color>
+</resources>
